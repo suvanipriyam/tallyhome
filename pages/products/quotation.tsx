@@ -4,11 +4,11 @@ import { Footer } from '@components/Layout/Footer';
 
 import Marquee from "react-fast-marquee";
 
-const incremental = () => {
+const quotation = () => {
   return (
     <div>
-      <Navbar/>
-      <section
+<Navbar/>
+<section
   className="page-title parallaxie"
   data-bg-img="https://www.tallysolution.net/assets/images/08.jpg"
   style={{
@@ -16,13 +16,13 @@ const incremental = () => {
     backgroundSize: "cover",
     backgroundRepeat: "no-repeat",
     backgroundAttachment: "fixed",
-    backgroundPosition: "center 38.55px"
+    backgroundPosition: "center 120.63px"
   }}
 >
   <div className="container">
     <div className="row">
       <div className="col">
-        <h1>Glow IPS Tally ERP.9 Sales &amp; Service Partener Delhi</h1>
+        <h1>Glow IPS Tally ERP.9 Sales &amp; Service Partener Delhi/NCR</h1>
         <nav aria-label="breadcrumb" className="page-breadcrumb">
           <ol className="breadcrumb">
             <li className="breadcrumb-item">
@@ -45,6 +45,7 @@ const incremental = () => {
     Software Dealers and Solution Provides - Across New Delhi - NCR - Gurgaon - Noida
   </h1>
 </Marquee>
+
 <section className="pb-3">
   <div className="container">
     <div className="row justify-content-center flex-flow-row-reverse">
@@ -1435,6 +1436,7 @@ const incremental = () => {
               className="row"
               method="post"
               action=""
+           
             >
               <div className="form-group col-md-12 has-error has-danger">
                 <input
@@ -1443,7 +1445,7 @@ const incremental = () => {
                   name="firstname"
                   className="form-control"
                   placeholder="First Name"
-                
+                 
                   data-error="Name is required."
                 />
               </div>
@@ -1454,7 +1456,7 @@ const incremental = () => {
                   name="firstname"
                   className="form-control"
                   placeholder="Mobile No."
-                
+                 
                   data-error="Mobile is required."
                 />
               </div>
@@ -1465,7 +1467,7 @@ const incremental = () => {
                   name="firstname"
                   className="form-control"
                   placeholder="Email"
-                
+                 
                   data-error="Email is required."
                 />
               </div>
@@ -1476,7 +1478,7 @@ const incremental = () => {
                   name="firstname"
                   className="form-control"
                   placeholder="City"
-                
+                 
                   data-error="City is required."
                 />
               </div>
@@ -1487,7 +1489,7 @@ const incremental = () => {
                   name="firstname"
                   className="form-control"
                   placeholder="Message"
-                
+                 
                   data-error="Message is required."
                 />
               </div>
@@ -1502,52 +1504,217 @@ const incremental = () => {
       </div>
       <div className="col-lg-8 col-md-8">
         <div className="section-title">
-          <h2 className="title">Incremental Implementation</h2>
-          <p>
-            Right from scoping to project closure, traditional ERP
-            implementations need to run through a cumbersome, time-consuming and
-            expensive process of initiation, design, implementation, delivery
-            and support before they are fully-operational. Tally.ERP 9
-            transforms the entire experience: adaptability to changes on live
-            data results in a unique iterative implementation methodology which
-            revolutionises the way businesses can embrace ERP.
-          </p>
-          <p>
-            Tally's iterative implementation enables you to kick-start
-            operations with just the basic structure and expand and fine tune it
-            along the way. Structural changes, process enhancements and more can
-            be incorporated in a continuous manner as and when the need arises.
-          </p>
+          <h2 className="title">Tally Software/Upgradation/Rental Quotes</h2>
           <div className="row">
             <div className="col-md-12 col-12">
               <div className="client-border-2 mt-3 mb-3">
                 <div className="client-heading">
-                  <p>Benefits of our Implementation Services include:</p>
+                  <p>Tally Package:</p>
                 </div>
                 <div className="row justify-content-center align-items-center">
-                  <div className="col-md-12">
+                  <div className="col-md-9">
+                    <table width="100%" className="p-2">
+                      <tbody>
+                        <tr>
+                          <td className="p-2">Tally.ERP 9 Silver</td>
+                          <td className="p-2">18,000.00 </td>
+                        </tr>
+                        <tr>
+                          <td className="p-2">Tally.ERP 9 Gold </td>
+                          <td className="p-2">54,000.00</td>
+                        </tr>
+                        <tr>
+                          <td className="p-2">Tally ERP-9 Auditor Edition</td>
+                          <td className="p-2">10,800.00</td>
+                        </tr>
+                        <tr>
+                          <td className="p-2">Tally Shoper 9 Silver</td>
+                          <td className="p-2">18,000.00</td>
+                        </tr>
+                        <tr>
+                          <td className="p-2">Tally Shoper 9 Gold</td>
+                          <td className="p-2">54,000.00</td>
+                        </tr>
+                        <tr>
+                          <td className="p-2">Tally Shoper 9 Diamond</td>
+                          <td className="p-2">2,70,000.00</td>
+                        </tr>
+                        <tr>
+                          <td className="p-2">
+                            Tally ERP 9 Silver (International)
+                          </td>
+                          <td className="p-2">
+                            $630($ varies, details as per 1/6/11)
+                          </td>
+                        </tr>
+                        <tr>
+                          <td className="p-2">
+                            Tally ERP-9 Gold (International)
+                          </td>
+                          <td className="p-2">$1890</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </div>
+                  <div className="col-md-3">
                     <img
-                      src="assets/images/implementationservices.gif"
+                      src="assets/images/Tally_erp_quotation_glowips_delhi.jpg"
                       alt=""
-                      width="100%"
                       style={{ filter: "invert(0)" }}
                     />
-                  </div>
-                  <div className="col-md-12">
-                    <ul className="ms-5">
-                      <li>
-                        Minimal start-up, rapid installation - start from day
-                        one!
-                      </li>
-                      <li>Complete 'suits-your-business' flexibility</li>
-                      <li>Minimal disruption to regular processes</li>
-                      <li>Huge operational savings</li>
-                      <li>Easy learning</li>
-                    </ul>
                   </div>
                 </div>
               </div>
             </div>
+            <div className="col-md-12 col-12">
+              <div className="client-border-2 mt-3 mb-3">
+                <div className="client-heading">
+                  <p>Tally Package for Rent:</p>
+                </div>
+                <div className="row justify-content-center align-items-center">
+                  <div className="col-md-9">
+                    <table width="100%" className="p-2">
+                      <tbody>
+                        <tr>
+                          <td className="p-2">
+                            Tally.ERP 9 Silver on rent (Quarterly){" "}
+                          </td>
+                          <td className="p-2">1,800.00 </td>
+                        </tr>
+                        <tr>
+                          <td className="p-2">
+                            Tally.ERP 9 Gold on rent (Quarterly){" "}
+                          </td>
+                          <td className="p-2">5,400.00 </td>
+                        </tr>
+                        <tr>
+                          <td className="p-2">
+                            Tally Shoper 9 Silver on rent (Quarterly){" "}
+                          </td>
+                          <td className="p-2">1,800.00 </td>
+                        </tr>
+                        <tr>
+                          <td className="p-2">
+                            Tally Shoper 9 Gold on rent (Quarterly){" "}
+                          </td>
+                          <td className="p-2">5,400.00 </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="col-md-12 col-12">
+              <div className="client-border-2 mt-3 mb-3">
+                <div className="client-heading">
+                  <p>Tally Upgrade:</p>
+                </div>
+                <div className="row justify-content-center align-items-center">
+                  <div className="col-md-12">
+                    <table width="100%" className="p-2">
+                      <tbody>
+                        <tr>
+                          {" "}
+                          <td className="p-2">
+                            Tally 9 Gold to ERP-9 Gold
+                          </td>{" "}
+                          <td className="p-2">10,800.00</td>
+                        </tr>
+                        <tr>
+                          {" "}
+                          <td className="p-2">
+                            Tally 9 Silver to Tally ERP-9 Silver{" "}
+                          </td>{" "}
+                          <td className="p-2">3,600.00</td>
+                        </tr>
+                        <tr>
+                          {" "}
+                          <td className="p-2">
+                            Tally 7.2 Silver to Tally.ERP 9 Silver
+                          </td>{" "}
+                          <td className="p-2"> 7,200.00</td>
+                        </tr>
+                        <tr>
+                          {" "}
+                          <td className="p-2">
+                            Tally 7.2 Gold to Tally.ERP 9 Gold
+                          </td>{" "}
+                          <td className="p-2"> 21,600.00</td>
+                        </tr>
+                        <tr>
+                          {" "}
+                          <td className="p-2">
+                            Tally 6.3 Gold to Tally.ERP 9 Gold{" "}
+                          </td>
+                          <td className="p-2"> 21,600.00</td>
+                        </tr>
+                        <tr>
+                          {" "}
+                          <td className="p-2">
+                            Tally 9/Tally.ERP 9 Silver To Tally.ERP 9 Gold{" "}
+                          </td>
+                          <td className="p-2"> 36,000.00</td>
+                        </tr>
+                        <tr>
+                          {" "}
+                          <td className="p-2">
+                            Tally 7.2 Single to Tally ERP-9 Gold{" "}
+                          </td>
+                          <td className="p-2">43,200.00</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="col-md-12 col-12">
+              <div className="client-border-2 mt-3 mb-3">
+                <div className="client-heading">
+                  <p>Tally.NET Subscription:</p>
+                </div>
+                <div className="row justify-content-center align-items-center">
+                  <div className="col-md-12">
+                    <table width="100%" className="p-2">
+                      <tbody>
+                        <tr>
+                          <td className="p-2">
+                            Tally.NET Subscription - Silver{" "}
+                          </td>{" "}
+                          <td className="p-2">3,600.00</td>{" "}
+                        </tr>
+                        <tr></tr>
+                        <tr>
+                          {" "}
+                          <td className="p-2">
+                            Tally.NET Subscription - Gold{" "}
+                          </td>{" "}
+                          <td className="p-2">10,800.00</td>{" "}
+                        </tr>
+                        <tr></tr>
+                        <tr>
+                          {" "}
+                          <td className="p-2">
+                            Tally.NET Auditor 1 Year Subscription{" "}
+                          </td>{" "}
+                          <td className="p-2"> 5,400.00</td>{" "}
+                        </tr>
+                        <tr></tr>
+                      </tbody>
+                    </table>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <p className="text-justify pt-3 pb-3">
+              {" "}
+              The Quotes of Software's, .NET, Upgradations are provided with
+              complete services **. For a detailed Quote please mail us at: -
+              <a href="mailto:tallyproducts@gmail.com">
+                tallyproducts@gmail.com
+              </a>
+            </p>
           </div>
         </div>
       </div>
@@ -1557,9 +1724,11 @@ const incremental = () => {
 
 
 
-      <Footer/>
+
+
+<Footer/>
     </div>
   )
 }
 
-export default incremental
+export default quotation
