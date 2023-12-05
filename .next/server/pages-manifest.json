@@ -2,9 +2,10 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js",
   "/404": "pages/404.js",
-  "/solutions/verticalsolutions/hotelrest": "pages/solutions/verticalsolutions/hotelrest.js",
-  "/company/about": "pages/company/about.js",
-  "/company/associates": "pages/company/associates.js"
+  "/solutions/verticalsolutions/jewellery": "pages/solutions/verticalsolutions/jewellery.js",
+  "/services/customization/invoice": "pages/services/customization/invoice.js",
+  "/products/shoper9": "pages/products/shoper9.js",
+  "/products/erp9": "pages/products/erp9.js",
+  "/company/about": "pages/company/about.js"
 }

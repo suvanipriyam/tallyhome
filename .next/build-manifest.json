@@ -12,11 +12,6 @@
   ],
   "rootMainFiles": [],
   "pages": {
-    "/": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/index.js"
-    ],
     "/404": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
@@ -37,15 +32,25 @@
       "static/chunks/main.js",
       "static/chunks/pages/company/about.js"
     ],
-    "/company/associates": [
+    "/products/erp9": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/company/associates.js"
+      "static/chunks/pages/products/erp9.js"
     ],
-    "/solutions/verticalsolutions/hotelrest": [
+    "/products/shoper9": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/solutions/verticalsolutions/hotelrest.js"
+      "static/chunks/pages/products/shoper9.js"
+    ],
+    "/services/customization/invoice": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/services/customization/invoice.js"
+    ],
+    "/solutions/verticalsolutions/jewellery": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/solutions/verticalsolutions/jewellery.js"
     ]
   },
   "ampFirstPages": []

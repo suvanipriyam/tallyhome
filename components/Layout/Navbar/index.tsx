@@ -1,12 +1,8 @@
 import { FC, useEffect, useState } from 'react'
-import { Link } from '@components/Utils/Link'
 import { IoIosArrowUp } from 'react-icons/io'
 import { useRouter } from 'next/router'
-import { GiHamburgerMenu } from 'react-icons/gi'
 import { CustomImage } from '@components/Utils/CustomImage'
 import classNames from 'classnames'
-import icon from '@assets/icon.svg'
-import { Button } from '@components/Utils/Button'
 
 export const Navbar: FC = () => {
   const router = useRouter()
@@ -207,13 +203,13 @@ export const Navbar: FC = () => {
                                       <a href="/company/about">About Us</a>
                                     </li>
                                     <li className="dropdown dropdown-submenu">
-                                      {' '}
+                                      {''}
                                       <a
-                                        href="#"
+                                        href="./company/glowIps"
                                         className="dropdown-toggle"
                                         data-bs-toggle="dropdown"
                                       >
-                                        <span>GLOWIPS Team</span>
+                                        <span> GLOWIPS Team</span>
                                       </a>
                                       <ul className="dropdown-menu">
                                         <li>
