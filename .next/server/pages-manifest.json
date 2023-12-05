@@ -4,8 +4,6 @@
   "/_document": "pages/_document.js",
   "/404": "pages/404.js",
   "/solutions/verticalsolutions/jewellery": "pages/solutions/verticalsolutions/jewellery.js",
-  "/services/customization/invoice": "pages/services/customization/invoice.js",
-  "/products/shoper9": "pages/products/shoper9.js",
-  "/products/erp9": "pages/products/erp9.js",
-  "/company/about": "pages/company/about.js"
+  "/company/about": "pages/company/about.js",
+  "/": "pages/index.js"
 }
