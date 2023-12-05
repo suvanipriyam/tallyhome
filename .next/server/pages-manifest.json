@@ -4,6 +4,7 @@
   "/_document": "pages/_document.js",
   "/": "pages/index.js",
   "/404": "pages/404.js",
-  "/solutions/verticalsolutions/jewellery": "pages/solutions/verticalsolutions/jewellery.js",
-  "/solutions/readyinvoicecust/service": "pages/solutions/readyinvoicecust/service.js"
+  "/solutions/verticalsolutions/hotelrest": "pages/solutions/verticalsolutions/hotelrest.js",
+  "/company/about": "pages/company/about.js",
+  "/company/associates": "pages/company/associates.js"
 }

@@ -32,15 +32,20 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/solutions/readyinvoicecust/service": [
+    "/company/about": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/solutions/readyinvoicecust/service.js"
+      "static/chunks/pages/company/about.js"
     ],
-    "/solutions/verticalsolutions/jewellery": [
+    "/company/associates": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/solutions/verticalsolutions/jewellery.js"
+      "static/chunks/pages/company/associates.js"
+    ],
+    "/solutions/verticalsolutions/hotelrest": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/solutions/verticalsolutions/hotelrest.js"
     ]
   },
   "ampFirstPages": []

@@ -398,7 +398,7 @@ export const Navbar: FC = () => {
                                           <ul className="dropdown-menu">
                                             <li>
                                               <a
-                                                href="/services/customization/module/page"
+                                                href="/services/customization/module/deluxeerp"
                                                 target="_blank"
                                               >
                                                 Our Deluxe ERP Module
@@ -406,7 +406,7 @@ export const Navbar: FC = () => {
                                             </li>
                                             <li>
                                               <a
-                                                href="/services/customization/module/page"
+                                                href="/services/customization/module/autoparts"
                                                 target="_blank"
                                               >
                                                 Auto Part No/ Alias Creation
@@ -415,7 +415,7 @@ export const Navbar: FC = () => {
                                             </li>
                                             <li>
                                               <a
-                                                href="/services/customization/module/page"
+                                                href="/services/customization/module/autobatch"
                                                 target="_blank"
                                               >
                                                 Auto Batch No Module
@@ -428,7 +428,7 @@ export const Navbar: FC = () => {
                                             </li>
                                             <li>
                                               <a
-                                                href="/services/customization/module/page"
+                                                href="/services/customization/module/masterdeletion"
                                                 target="_blank"
                                               >
                                                 Master Deletion Module
@@ -436,7 +436,7 @@ export const Navbar: FC = () => {
                                             </li>
                                             <li>
                                               <a
-                                                href="/services/customization/module/page"
+                                                href="/services/customization/module/enhancedreporting"
                                                 target="_blank"
                                               >
                                                 Enhanced Reporting Module
@@ -444,7 +444,7 @@ export const Navbar: FC = () => {
                                             </li>
                                             <li>
                                               <a
-                                                href="/services/customization/module/page"
+                                                href="/services/customization/module/erpreporting"
                                                 target="_blank"
                                               >
                                                 ERP Reporting Module
@@ -452,7 +452,7 @@ export const Navbar: FC = () => {
                                             </li>
                                             <li>
                                               <a
-                                                href="/services/customization/module/page"
+                                                href="/services/customization/module/labelprinting"
                                                 target="_blank"
                                               >
                                                 Label Printing Module
@@ -460,7 +460,7 @@ export const Navbar: FC = () => {
                                             </li>
                                             <li>
                                               <a
-                                                href="/services/customization/module/page"
+                                                href="/services/customization/module/monthwise"
                                                 target="_blank"
                                               >
                                                 Month Wise Outstanding Module
@@ -468,7 +468,7 @@ export const Navbar: FC = () => {
                                             </li>
                                             <li>
                                               <a
-                                                href="/services/customization/module/page"
+                                                href="/services/customization/module/multipleemail"
                                                 target="_blank"
                                               >
                                                 Multiple Email Setting Module
@@ -476,7 +476,7 @@ export const Navbar: FC = () => {
                                             </li>
                                             <li>
                                               <a
-                                                href="/services/customization/module/page"
+                                                href="/services/customization/module/partywise"
                                                 target="_blank"
                                               >
                                                 Party Wise Discount Module
@@ -484,7 +484,7 @@ export const Navbar: FC = () => {
                                             </li>
                                             <li>
                                               <a
-                                                href="/services/customization/module/page"
+                                                href="/services/customization/module/purchaserequisition"
                                                 target="_blank"
                                               >
                                                 Purchase Requisition Module
@@ -492,7 +492,7 @@ export const Navbar: FC = () => {
                                             </li>
                                             <li>
                                               <a
-                                                href="/services/customization/module/page"
+                                                href="/services/customization/module/voucherapproval"
                                                 target="_blank"
                                               >
                                                 Voucher Approval Module
